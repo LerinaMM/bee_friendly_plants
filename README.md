@@ -9,8 +9,9 @@ The team has collected data on native and non-native plants and their effects on
 # The Data
 You have assembled information on the plants and bees research in a file called plants_and_bees.csv. Each row represents a sample that was taken from a patch of land where the plant species were being studied.
 
-Column	Description
-sample_id	The ID number of the sample taken.
+# Column	   Description
+
+#sample_id	 The ID number of the sample taken.
 
 species_num	The number of different bee species in the sample.
 
