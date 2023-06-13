@@ -11,43 +11,45 @@ You have assembled information on the plants and bees research in a file called 
 
 # Column	   Description
 
-#sample_id	 The ID number of the sample taken.
+sample_id - The ID number of the sample taken.
 
-species_num	The number of different bee species in the sample.
+species_num	- The number of different bee species in the sample.
 
-date	Date the sample was taken.
+date - Date the sample was taken.
 
-season	Season during sample collection ("early.season" or "late.season").
+season - Season during sample collection ("early.season" or "late.season").
 
-site	Name of collection site.
+site - Name of collection site.
 
-native_or_non	Whether the sample was from a native or non-native plant.
+native_or_non -	Whether the sample was from a native or non-native plant.
 
-sampling	The sampling method.
+sampling - The sampling method.
 
-plant_species	The name of the plant species the sample was taken from. None indicates the sample was taken from the air.
+plant_species -	The name of the plant species the sample was taken from. None indicates the sample was taken from the air.
 
-time	The time the sample was taken.
+time - The time the sample was taken.
 
-bee_species	The bee species in the sample.
+bee_species -	The bee species in the sample.
 
-sex	The gender of the bee species.
+sex	- The gender of the bee species.
 
-specialized_on	The plant genus the bee species preferred.
+specialized_on - The plant genus the bee species preferred.
 
-parasitic	Whether or not the bee is parasitic (0:no, 1:yes).
+parasitic -	Whether or not the bee is parasitic (0:no, 1:yes).
 
-nesting	The bees nesting method.
+nesting - The bees nesting method.
 
-status	The status of the bee species.
+status - The status of the bee species.
 
-nonnative_bee	Whether the bee species is native or not (0:no, 1:yes).
+nonnative_bee -	Whether the bee species is native or not (0:no, 1:yes).
 
 # Source
 
 https://datadryad.org/stash/dataset/doi:10.5061/dryad.pzgmsbcj8
 
 # Challenge
+
+This dataset was propose in Data Camp app and was available for a challenge for the users to participate. I decided do this analysis for improving my knowledge.
 
 Provide your agency with a report that covers the following:
 
