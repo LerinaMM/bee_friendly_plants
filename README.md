@@ -53,6 +53,8 @@ This dataset was propose in Data Camp app and was available for a challenge for 
 
 Provide your agency with a report that covers the following:
 
-Which plants are preferred by native vs non-native bee species?
-A visualization of the distribution of bee and plant species across one of the samples.
-Select the top three plant species you would recommend to the agency to support native bees.
+1. Which plants are preferred by native vs non-native bee species?
+   
+2. A visualization of the distribution of bee and plant species across one of the samples.
+
+3. Select the top three plant species you would recommend to the agency to support native bees.
